@@ -1,0 +1,341 @@
+[
+    {
+        "name": "Mr. Atharva Ramakrishna",
+        "email": "1032201741@mitwpu.edu.in",
+        "phone_number": "+91-7887580387",
+        "education": [
+            {
+                "institution": "Dr. Vishwanath Karad MIT World Peace University (MIT-WPU)",
+                "degree": "B.Tech. - Computer Science & Engineering",
+                "marks": 9.65
+            },
+            {
+                "institution": "St. Xaviers High Schools, Nagpur",
+                "degree": "12th",
+                "marks": 81.6
+            },
+            {
+                "institution": "Narayana Vidyalayam, Nagpur",
+                "degree": "10th",
+                "marks": 91.4
+            }
+        ],
+        "experience": [
+            {
+                "organization": "IDeaS",
+                "role": "Associate Software Developer",
+                "skills": [
+                    "Python",
+                    "Data Analysis",
+                    "Machine Learning",
+                    "Web Scraping",
+                    "AI"
+                ]
+            }
+        ],
+        "key_skills": [
+            "Machine Learning",
+            "Opencv",
+            "Internet of Things",
+            "Python",
+            "Java",
+            "C",
+            "CPP",
+            "OOPs"
+        ],
+        "soft_skills": [
+            "Highly motivated",
+            "Ambitious",
+            "Problem-solving skills",
+            "Analytical skills"
+        ]
+    },
+    {
+        "name": "HARSH CHOUDHARY",
+        "email": "1032201678@mitwpu.edu.in",
+        "phone_number": "+91-9373687718",
+        "education": [
+            {
+                "institution": "Dr. Vishwanath Karad MIT World Peace University (MIT-WPU)",
+                "degree": "B.Tech. - Computer Science & Engineering",
+                "marks": 975
+            },
+            {
+                "institution": "City international school, Pune",
+                "degree": "12th",
+                "marks": 8860
+            },
+            {
+                "institution": "Pawar Public School, Pune",
+                "degree": "10th",
+                "marks": 9666
+            }
+        ],
+        "experience": [
+            {
+                "organization": "Reliance games",
+                "role": "Game tester",
+                "skills": [
+                    "Software Testing",
+                    "Compatibility Testing",
+                    "JIRA",
+                    "Agile",
+                    "Firebase",
+                    "Game Development",
+                    "Game of whales",
+                    "Unity3D"
+                ]
+            }
+        ],
+        "key_skills": [
+            "Software Testing",
+            "Compatibility Testing",
+            "JIRA",
+            "Agile",
+            "Firebase",
+            "Game Development",
+            "Game of whales",
+            "Unity3D",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Internet of Things",
+            "Mobile Application Development",
+            "UX Design",
+            "SolidWorks",
+            "DBMS",
+            "Front-End Web Development",
+            "PHP",
+            "PhpMyAdmin",
+            "Javascript",
+            "XAMPP",
+            "MySQL",
+            "Html5",
+            "CSS",
+            "Game Design"
+        ],
+        "soft_skills": [
+            "Excellent communication skills",
+            "Teamwork",
+            "Problem-solving",
+            "Time management"
+        ]
+    },
+    {
+        "name": "IPSITA SOUMYA",
+        "email": "1032201909@mitwpu.edu.in",
+        "phone_number": "+91-7057570937",
+        "education": [
+            {
+                "institution": "Dr. Vishwanath Karad MIT World Peace University (MIT-WPU)",
+                "degree": "B.Tech. - Computer Science & Engineering",
+                "marks": 977
+            },
+            {
+                "institution": "Sinhgad Springdale Public School, Pune City",
+                "degree": "12th",
+                "marks": 803
+            },
+            {
+                "institution": "Delhi Public School, Pune",
+                "degree": "10th",
+                "marks": 960
+            }
+        ],
+        "experience": [],
+        "key_skills": [
+            "CPP",
+            "CSS",
+            "Github",
+            "OOPs",
+            "Internet of Things",
+            "Python",
+            "HTML",
+            "Figma",
+            "C",
+            "SQL"
+        ],
+        "soft_skills": [
+            "Gaming",
+            "UI Designing",
+            "Travel"
+        ]
+    },
+    {
+        "name": "JANHAVI CHANDRASHEKHAR",
+        "email": "1032201709@mitwpu.edu.in",
+        "phone_number": "+91-7385404777",
+        "education": [
+            {
+                "institution": "Dr. Vishwanath Karad MIT World Peace University (MIT-WPU)",
+                "degree": "B.Tech. - Computer Science & Engineering",
+                "marks": 9
+            },
+            {
+                "institution": "M.K.H Sancheti Public and Junior College, Nagpur",
+                "degree": "12th",
+                "marks": 79
+            },
+            {
+                "institution": "Universal English Medium School, Umarkhed",
+                "degree": "10th",
+                "marks": 94
+            }
+        ],
+        "experience": [],
+        "key_skills": [
+            "C++",
+            "Python",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "ML basics",
+            "C",
+            "OOPs"
+        ],
+        "soft_skills": [
+            "Gender: Female",
+            "Marital Status: Single",
+            "Known Languages: Engish, Marathi, Hindi"
+        ]
+    },
+    {
+        "name": "PRATHAMESH KULKARNI",
+        "email": "prathamesh.kulkarni20@vit.edu.in",
+        "phone_number": "+91-9137908651",
+        "education": [
+            {
+                "institution": "Vidyalankar Institute of Technology, Mumbai",
+                "degree": "Bachelor of Engineering - Computer Engineering",
+                "marks": 9.52
+            },
+            {
+                "institution": "Pace Science Junior College, Thane",
+                "degree": "Higher Secondary Certificate (HSC)",
+                "marks": 89.09
+            },
+            {
+                "institution": "B.K Birla Public School, Kalyan",
+                "degree": "Central Board of Secondary Education (CBSE)",
+                "marks": 91.2
+            }
+        ],
+        "experience": [],
+        "key_skills": [
+            "Python",
+            "SQL",
+            "Object Oriented Programming",
+            "MongoDB",
+            "Firebase",
+            "MySQL",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Linear Regression",
+            "Logistic Regression",
+            "NumPy",
+            "Pandas",
+            "Scikit-learn",
+            "Clustering",
+            "Flask",
+            "Django",
+            "APIs",
+            "HTML",
+            "CSS",
+            "C++",
+            "Operating Systems",
+            "Database Design",
+            "NOSQL",
+            "Telegram API",
+            "AWS Lex",
+            "Kaggle"
+        ],
+        "soft_skills": [],
+        "achievements": [
+            "Smart India Hackathon 2022 Finalist Software Edition (Team of 6)",
+            "2nd in UI/UX design competition held across Mumbai University (Team of 2)",
+            "Codeforces Contest Rating 1034"
+        ]
+    },
+    {
+        "name": "MR. HRISHIKESH PRASHANT",
+        "email": "1032201749@mitwpu.edu.in",
+        "phone_number": "+91-9657244521",
+        "education": [
+            {
+                "institution": "Dr. Vishwanath Karad MIT World Peace University (MIT-WPU)",
+                "degree": "B.Tech. - Computer Science & Engineering",
+                "marks": 9
+            },
+            {
+                "institution": "City International School Wanowrie, Pune",
+                "degree": "12th",
+                "marks": 84
+            },
+            {
+                "institution": "City International School, Pune",
+                "degree": "10th",
+                "marks": 91
+            }
+        ],
+        "experience": [
+            {
+                "organization": "FirstLanguage Technologies",
+                "role": "Intern",
+                "skills": [
+                    "NLP",
+                    "Python-StreamLit",
+                    "Python",
+                    "Data Science"
+                ]
+            }
+        ],
+        "key_skills": [
+            "C++",
+            "Java",
+            "Python",
+            "OOP",
+            "Machine Learning",
+            "Android Studio",
+            "MySQL"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Growth mindset",
+            "Passion for learning",
+            "Problem-solving"
+        ]
+    },
+    {
+        "name": "Vaishnavi Kale",
+        "email": "vaishnavikaebt6jjogmail.com",
+        "phone_number": "9067571021",
+        "education": [
+            {
+                "institution": "Dr DY Patil Institute of Engineering",
+                "degree": "Bachelor of Engineering in Computer Engineering",
+                "marks": 9.91
+            },
+            {
+                "institution": "Hestu Adawani Jr. College",
+                "degree": "XM in Science Education",
+                "marks": 85
+            },
+            {
+                "institution": "hi Amarnath Vidyalaya",
+                "degree": "-",
+                "marks": 95.6
+            }
+        ],
+        "experience": [],
+        "key_skills": [
+            "Google Workspace",
+            "OOP",
+            "Problem Solving",
+            "Python"
+        ],
+        "soft_skills": [
+            "Team Work",
+            "Productivity"
+        ]
+    }
+]

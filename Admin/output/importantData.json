@@ -1,0 +1,209 @@
+[
+    {
+        "name": "Mr. Atharva Ramakrishna",
+        "email": "1032201741@mitwpu.edu.in",
+        "phone_number": "+91-7887580387",
+        "education": 3,
+        "marks": [
+            81.6,
+            91.4
+        ],
+        "skills": [
+            "Java",
+            "Problem-solving skills",
+            "Ambitious",
+            "Analytical skills",
+            "Internet of Things",
+            "Highly motivated",
+            "Python",
+            "AI",
+            "C",
+            "Web Scraping",
+            "Data Analysis",
+            "CPP",
+            "Machine Learning",
+            "Opencv",
+            "OOPs"
+        ],
+        "id": 8470051443012795495
+    },
+    {
+        "name": "HARSH CHOUDHARY",
+        "email": "1032201678@mitwpu.edu.in",
+        "phone_number": "+91-9373687718",
+        "education": 3,
+        "marks": [
+            97.5,
+            886.0,
+            966.6
+        ],
+        "skills": [
+            "Html5",
+            "PHP",
+            "Unity3D",
+            "Front-End Web Development",
+            "Natural Language Processing",
+            "Javascript",
+            "SolidWorks",
+            "JIRA",
+            "Time management",
+            "MySQL",
+            "Internet of Things",
+            "Mobile Application Development",
+            "DBMS",
+            "Game Design",
+            "Teamwork",
+            "Problem-solving",
+            "Firebase",
+            "Artificial Intelligence",
+            "Excellent communication skills",
+            "PhpMyAdmin",
+            "Game of whales",
+            "CSS",
+            "Compatibility Testing",
+            "Software Testing",
+            "Machine Learning",
+            "XAMPP",
+            "Agile",
+            "UX Design",
+            "Game Development"
+        ],
+        "id": 908111702608774386
+    },
+    {
+        "name": "IPSITA SOUMYA",
+        "email": "1032201909@mitwpu.edu.in",
+        "phone_number": "+91-7057570937",
+        "education": 3,
+        "marks": [
+            97.7,
+            80.3,
+            96.0
+        ],
+        "skills": [
+            "Github",
+            "Internet of Things",
+            "Gaming",
+            "Python",
+            "HTML",
+            "CSS",
+            "C",
+            "CPP",
+            "UI Designing",
+            "Figma",
+            "SQL",
+            "OOPs",
+            "Travel"
+        ],
+        "id": 8334388277431027469
+    },
+    {
+        "name": "JANHAVI CHANDRASHEKHAR",
+        "email": "1032201709@mitwpu.edu.in",
+        "phone_number": "+91-7385404777",
+        "education": 3,
+        "marks": [
+            79,
+            94
+        ],
+        "skills": [
+            "C++",
+            "Marital Status: Single",
+            "MySQL",
+            "ML basics",
+            "HTML",
+            "Python",
+            "CSS",
+            "C",
+            "Gender: Female",
+            "OOPs",
+            "Known Languages: Engish, Marathi, Hindi"
+        ],
+        "id": 5124259967272022262
+    },
+    {
+        "name": "PRATHAMESH KULKARNI",
+        "email": "prathamesh.kulkarni20@vit.edu.in",
+        "phone_number": "+91-9137908651",
+        "education": 3,
+        "marks": [
+            89.09,
+            91.2
+        ],
+        "skills": [
+            "NumPy",
+            "Python",
+            "Telegram API",
+            "NOSQL",
+            "MySQL",
+            "Linear Regression",
+            "Logistic Regression",
+            "Scikit-learn",
+            "Operating Systems",
+            "Object Oriented Programming",
+            "Flask",
+            "Django",
+            "Pandas",
+            "C++",
+            "Firebase",
+            "Artificial Intelligence",
+            "CSS",
+            "Database Design",
+            "Machine Learning",
+            "AWS Lex",
+            "SQL",
+            "APIs",
+            "HTML",
+            "MongoDB",
+            "Kaggle",
+            "Clustering"
+        ],
+        "id": 3760355020705871101
+    },
+    {
+        "name": "MR. HRISHIKESH PRASHANT",
+        "email": "1032201749@mitwpu.edu.in",
+        "phone_number": "+91-9657244521",
+        "education": 3,
+        "marks": [
+            84,
+            91
+        ],
+        "skills": [
+            "Data Science",
+            "Java",
+            "C++",
+            "NLP",
+            "Android Studio",
+            "Problem-solving",
+            "MySQL",
+            "Passion for learning",
+            "Python",
+            "Python-StreamLit",
+            "Growth mindset",
+            "Machine Learning",
+            "Communication",
+            "OOP"
+        ],
+        "id": 8861291597063571310
+    },
+    {
+        "name": "Vaishnavi Kale",
+        "email": "vaishnavikaebt6jjogmail.com",
+        "phone_number": "9067571021",
+        "education": 3,
+        "marks": [
+            85,
+            95.6
+        ],
+        "skills": [
+            "Problem Solving",
+            "Productivity",
+            "Python",
+            "Google Workspace",
+            "OOP",
+            "Team Work"
+        ],
+        "id": 8991722679626685316
+    }
+]
